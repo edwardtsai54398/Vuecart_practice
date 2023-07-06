@@ -31,7 +31,9 @@
 table {
     width: 100%;
 }
-
+button{
+    cursor: pointer;
+}
 .cart_head,
 .cart_item {
     display: grid;
